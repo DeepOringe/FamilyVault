@@ -108,7 +108,7 @@ a.pdf-link span{
 	position: relative;
 	width: 18em;
 	height: 13em;
-	border-radius: 2em;
+	border-radius: 1em;
 	top: 10em;
 	box-sizing: border-box;
 	border: 3.5em solid tomato;
@@ -142,3 +142,7 @@ a.pdf-link span{
 	margin-left: -2.5em;
   }
 
+a.pdf-link:hover *{
+ opacity: .9
+}
+}
