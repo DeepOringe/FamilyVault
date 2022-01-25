@@ -96,7 +96,7 @@ body{
 /* Specific Styles */
 
 h1, p{
-	text-align: center;
+	text-align: center; /*for small screens*/
 }
 a.pdf-link{
 	display: flex;
