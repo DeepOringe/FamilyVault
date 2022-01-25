@@ -94,6 +94,10 @@ body{
 }
 
 /* Specific Styles */
+
+h1, p{
+	text-align: center;
+}
 a.pdf-link{
 	display: flex;
 	flex-direction: column;
@@ -144,5 +148,4 @@ a.pdf-link span{
 
 a.pdf-link:hover *{
  opacity: .9
-}
 }
